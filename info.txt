@@ -1,0 +1,5 @@
+This game is based on python 
+The code for the game is provided
+You can directly run the code in vs code as vs code is support for psython 
+No need to store any database
+
